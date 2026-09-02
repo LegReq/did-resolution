@@ -19,5 +19,5 @@ jobs:
           W3C_ECHIDNA_TOKEN: ${{ secrets.ECHIDNA_TOKEN }}
           W3C_WG_DECISION_URL: https://www.w3.org/2024/09/24-did-minutes.html#r02
           W3C_BUILD_OVERRIDE: |
-            specStatus: WD
-            shortName: did-resolution
+            specStatus: CRD
+            shortName: did-resolution-1.0
